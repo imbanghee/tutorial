@@ -1,1 +1,2 @@
 this is a sample text
+add - register at index with changes
